@@ -1,2 +1,2 @@
 # StartupCampusAssignments
-Assignments from StartupCampus
+Individual and team assignments from StartupCampus
